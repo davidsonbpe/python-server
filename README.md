@@ -11,6 +11,11 @@ Este aplicativo demonstra um aplicativo Web Python simples e reutilizável.
 1. Run `python server.py` Para iniciar o aplicativo
 1. Acesse o aplicativo em execução em um navegador em <http://localhost:3000>
 
+# Install npm
+1. `npm i python-server`
+1. `cd node_modules/python-server`
+1. Run `python server.py`
+
 [Install Python]: https://www.python.org/downloads/
 
 ## Execute em servidor linux
