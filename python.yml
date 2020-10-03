@@ -1,8 +1,0 @@
-
-language: python
-
-python:
-  - ""
-
-script:
-  - python server.py
