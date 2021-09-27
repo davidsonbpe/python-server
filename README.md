@@ -23,4 +23,4 @@ Este aplicativo demonstra um aplicativo Web Python simples e reutilizável.
 1. `wget -c https://github.com/davidsonbpe/python-server/releases/download/1.1/python-server.zip`
 1. `unzip python-server.zip`
 1. Run `python server.py` Para iniciar o aplicativo
-1. Acesse o aplicativo em execução em um navegador em <http://localhost:3000>
+1. Acesse o aplicativo em execução em um navegador em <http://localhost:3100>
