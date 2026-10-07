@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/davidsonbpe/python-server/master/pys.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
 
-# Python Server html5 css js
+# PYTHON SERVER HTML5 CSS JS
 
-Este aplicativo demonstra um aplicativo Web Python simples e reutilizável.
+ESTE APLICATIVO DEMONSTRA UM APLICATIVO WEB PYTHON SIMPLES E REUTILIZÁVEL.
 
 ## Execute o aplicativo localmente
 
